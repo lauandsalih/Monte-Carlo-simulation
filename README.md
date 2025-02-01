@@ -1,5 +1,5 @@
 # Monte-Carlo-simulation
-An assignment in the course "Physics and mathematics methods studio" where I implemented Monte-Carlo simulation in my code to determine how many cashiers the bank should have to keep the queue length at a reasonable level.
+An assignment in the course "Physics and mathematics methods studio" where I implemented Monte-Carlo simulation in my MATLAB code to determine how many cashiers the bank should have to keep the queue length at a reasonable level.
 
 Assignment:
 "Customers arrive at the bank randomly, with the time between two consecutive arrivals following an exponential distribution with a mean of 3 minutes (see Appendix 3).
